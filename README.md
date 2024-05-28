@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![ME AS A PROFESSIONAL CODER](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
 ## About Me
