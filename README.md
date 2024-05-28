@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ![ME AS A PROFESSIONAL CODER](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
-## About Me
+## <span style="color: #ff6347;">About Me</span>
 
 - 🧑‍💼 **Name:** Wladimir Schkulov
 - 🎂 **Age:** 29
