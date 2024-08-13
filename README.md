@@ -1,4 +1,4 @@
-# Hi there, I'm Wladimir Schkulov 👋
+# Hi there, I'm Wladimir 👋
 
 Welcome to my GitHub profile!
 
