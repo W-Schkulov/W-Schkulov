@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!
 
-![ME AS A PROFESSIONAL CODER](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+![image](https://github.com/user-attachments/assets/65a79261-b7b0-42eb-8b50-c4b013d45603)
 
 
 ## <span style="color: #ff6347;">About Me</span>
