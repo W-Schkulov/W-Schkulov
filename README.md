@@ -6,7 +6,7 @@ I'm an aspiring **Junior Web Developer** passionate about modern web technologie
 
 ## 🚀 **Skills**
 
-<p align="center">
+<p align="center" width="100px" height="100px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
