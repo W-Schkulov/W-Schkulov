@@ -1,24 +1,28 @@
-# Hi there, I'm Wladimir 👋
+# 👋 Hi, I'm Wladimir Schkulov!
 
-Welcome to my GitHub profile!
+I'm an aspiring **Junior Web Developer** passionate about modern web technologies and continuous learning. I focus on building performant and user-friendly applications using **React** and **Next.js**.
 
+---
 
-![image](https://github.com/user-attachments/assets/65a79261-b7b0-42eb-8b50-c4b013d45603)
+## 🚀 **Skills**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />
+</p>
 
-## <span style="color: #ff6347;">About Me</span>
+---
 
-- 🧑‍💼 **Name:** Wladimir Schkulov
-- 🎂 **Age:** 29
-- 🏡 **Location:** Haltern am See, Germany
-- 📚 **Currently Learning:** Web Development at [neuefische](https://www.neuefische.de/)
-- 🎮 **Hobbies:** Anime, Gaming, and Coding
+## 📫 **Get in Touch**
 
-I'm an aspiring web developer currently honing my skills at neuefische. My journey into the world of coding has just begun and is driven by my love for problem-solving and creativity. When I'm not learning, you can find me immersed in anime series, exploring virtual worlds through gaming, or discovering new technologies and techniques to improve my development skills.
+- **LinkedIn**: [https://www.linkedin.com/in/wladimir-schkulov-348018342/](#)  
+- **Email**: wladimir.schk95@gmail.com
 
+---
 
-
-
-
-
-
+⭐️ *Check out my projects and let's build something amazing together!*
