@@ -2,7 +2,6 @@
 
 I'm an aspiring **Junior Web Developer** passionate about modern web technologies and continuous learning. I focus on building performant and user-friendly applications using **React** and **Next.js**.
 
----
 
 ## 🚀 **Skills**
 
@@ -16,7 +15,7 @@ I'm an aspiring **Junior Web Developer** passionate about modern web technologie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="100" height="100" />
 </p>
 
----
+
 
 ## 📫 **Get in Touch**
 
