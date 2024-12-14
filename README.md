@@ -3,7 +3,7 @@
 I'm an aspiring **Junior Web Developer** passionate about modern web technologies and continuous learning. I focus on building performant and user-friendly applications using **React** and **Next.js**.
 
 
-## 🚀 **Skills**
+🚀 **Skills**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="100" height="100" />
